@@ -1,4 +1,5 @@
 <?php
+//para la practica 4 aqui deberan modificar
 $servidor = "localhost";
 $usuario = "root";
 $password = "";
